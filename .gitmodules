@@ -1,3 +1,21 @@
 [submodule "python/code/cpython"]
 	path = python/code/cpython
 	url = https://github.com/python/cpython.git
+[submodule "python/code/jupyter_client"]
+	path = python/code/jupyter_client
+	url = https://github.com/jupyter/jupyter_client.git
+[submodule "python/code/sos-notebook"]
+	path = python/code/sos-notebook
+	url = https://github.com/vatlab/sos-notebook.git
+[submodule "python/code/xeus"]
+	path = python/code/xeus
+	url = https://github.com/jupyter-xeus/xeus-cling.git
+[submodule "python/code/xeus-zmq"]
+	path = python/code/xeus-zmq
+	url = https://github.com/jupyter-xeus/xeus-zmq.git
+[submodule "python/code/jupyter-c-kernel"]
+	path = python/code/jupyter-c-kernel
+	url = https://github.com/brendan-rius/jupyter-c-kernel.git
+[submodule "python/code/ipykernel"]
+	path = python/code/ipykernel
+	url = https://github.com/ipython/ipykernel.git
